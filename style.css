@@ -1,0 +1,38 @@
+body{
+    background-image:url("weather2.jfif");
+    background-repeat:no-repeat;
+    background-size: 1600px 800px;
+
+}
+ .button{
+    
+    color: blue;
+    margin-top: 1%;
+    font-size: 60px;
+
+}
+.button p{
+    font-size: 20px;
+    margin-top: 2%;
+}
+button{
+    width:200px;
+    height:40px;
+    border-radius: 5px;
+}
+#cityInput{
+    width: 500px;
+    border-radius: 5px;
+    height:30px;
+}
+.box{
+    
+    text-align: center;
+    margin-top: 3%;
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 50px;
+    font-family:cursive;
+}
